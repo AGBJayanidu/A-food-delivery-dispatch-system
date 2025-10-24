@@ -1,5 +1,6 @@
 # Food Delivery Dispatch System Simulation
 
+
 ## Overview
 
 This project simulates a **food delivery dispatch system** where customer orders are assigned to a limited number of delivery riders. The simulation tracks key performance metrics, such as average waiting time, total completed deliveries, orders that had to wait, and maximum queue length. It allows experimentation with different numbers of riders to analyze system performance under varying resource configurations.
