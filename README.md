@@ -28,9 +28,9 @@ pip install matplotlib
 ## File Structure
 
 ```
-simulation_charts/                 # Folder where generated charts will be saved
-food_delivery_simulation.py        # Python script containing the simulation code
-README.md                          # This file
+simulation_charts/                # Folder where generated charts will be saved
+food_delivery_simulation.py       # Python script containing the simulation code
+README.md                         # This file
 ```
 
 ## Usage Instructions
@@ -43,7 +43,7 @@ README.md                          # This file
    ```
 
 2. **Adjust Simulation Parameters (Optional)**  
-   Inside `food_delivery_simulation.py`, you can modify parameters such as:
+   Inside `main.py`, you can modify parameters such as:
 
    ```python
    SIMULATION_TIME = 60       # Total simulation duration in minutes
